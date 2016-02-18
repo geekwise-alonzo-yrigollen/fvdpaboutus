@@ -7,12 +7,22 @@ header{
 body{
     background-color:blue;
 }
+
+section{
+    color: red;
+    text-align:center;
+    background-color:black;
+    height: 150px;
+    width: 420px;
+    float:right
+}
 img{
     background-color:red;
     border-radius:40px;
     border:solid 1em white;
     border-bottom-color: brown;
     border-top-color:brown;
+
 }
 
 
