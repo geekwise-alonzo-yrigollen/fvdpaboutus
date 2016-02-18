@@ -7,3 +7,12 @@ header{
 body{
     background-color:blue;
 }
+img{
+    background-color:red;
+    border-radius:40px;
+    border:solid 1em white;
+    border-bottom-color: brown;
+    border-top-color:brown;
+}
+
+
